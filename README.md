@@ -1,5 +1,8 @@
 # Oscillator.Theory
-index:
+# Theory:
+- [The beauty of LC Oscillations!](https://youtu.be/2_y_3_3V-so)
+
+# index:
 - [Electronic Basics #17: Oscillators || RC, LC, Crystal](https://youtu.be/eYVOdlK15Og)
 - [What is an oscillator? Oscillator tutorial in HD!](https://youtu.be/aJAZHPqEUKU)
 - [LC Circuit: Selecting Coil and Capacitor](https://youtu.be/tjD9I95RAbw)
@@ -14,7 +17,7 @@ index:
 - [LC Oscillator Tank Circuit](https://youtu.be/nh4q7mIhLrY)
 - [Oscillators explained in 4 minutes](https://youtu.be/t3b0ZNKvgqo)
 - [Build A Simple Sine Wave Oscillator](https://youtu.be/9Y9yS2hhsik)
-- 
+- [Colpitts Crystal Oscillator](https://youtu.be/r2FoDw_h5RU)
 
 # Course:
 - [Build A Simple Sine Wave Oscillator](https://youtu.be/9Y9yS2hhsik)
